@@ -8,7 +8,7 @@ class UserForm
     public $email;
     public $successMsg;
     public $errorMsg;
-    private $userModel;
+    private $userMode;
 
     public function __construct()
     {
